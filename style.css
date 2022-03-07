@@ -1,0 +1,35 @@
+body{
+    background-color: #012148;
+    
+}
+.validar{
+    text-align: center;
+    align-items: center;
+    margin-top: 0;
+}
+.peronIcon{
+
+}
+.menu{
+    align-items: center;
+    text-align: center;
+}
+#senha{
+    font-size: 16px;
+}
+#botao{
+    font-size: 17px;
+    width: 80px;
+    margin-left: 14px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-block-width: 4px;
+    background-color: #efefef;
+    
+}
+#title2{
+    margin-top: 50px;
+    color: white;
+    font-size: 5em;
+}
